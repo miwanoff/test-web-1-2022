@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Better Together";
+  src: url("fonts/Better Together.ttf"); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: Sparkle; /* Гарнитура шрифта */
+  src: url(fonts/Sparkle.ttf); /* Путь к файлу со шрифтом */
+}
+h1 {
+  color: blueviolet;
+  font-family: Sparkle, "Comic Sans MS", cursive;
+}
+h2 {
+  color: brown;
+  font-family: Sparkle, "Comic Sans MS", cursive;
+}
